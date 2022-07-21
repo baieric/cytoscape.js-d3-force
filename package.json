@@ -54,7 +54,7 @@
     "d3-force": "^2.0.1"
   },
   "peerDependencies": {
-    "cytoscape": "baieric/cytoscape#f15f69057508a98cf2ed97bd60602942ddb179af"
+    "cytoscape": "baieric/cytoscape.js#f15f69057508a98cf2ed97bd60602942ddb179af"
   },
   "directories": {
     "test": "test"
